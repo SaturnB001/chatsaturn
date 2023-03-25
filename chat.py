@@ -25,3 +25,4 @@ while True:
 
     # Imprime a resposta encontrada
     print(resposta)
+
